@@ -18,4 +18,9 @@ if you can add any files in local repository or you can change the existing file
 3. git commit -m "message"
 4. git push origin main
 
+----------------------------------
+removing directory
+1. rmdir /s /q .git
 
+to view hidden files
+1. dir /a:h
