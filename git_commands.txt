@@ -19,8 +19,13 @@ if you can add any files in local repository or you can change the existing file
 4. git push origin main
 
 ----------------------------------
-removing directory
-1. rmdir /s /q .git
-
-to view hidden files
-1. dir /a:h
+Day-2
+1. removing directory: rmdir /s /q <directory_name>
+2. to view hidden files: dir /a:h
+3. to clear the screen: cls
+4. to create a directory: mkdir <directory_name>
+5. hiding a folder: attrib +h <folder_name>
+6. to show a hidden folder: attrib -h <folder_name>
+7. to remove an empty directory: rmdir >directory_name>
+8. to display contents of a directory: dir
+9. to display hidden folder: dir /a:h
