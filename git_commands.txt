@@ -29,3 +29,11 @@ Day-2
 7. to remove an empty directory: rmdir >directory_name>
 8. to display contents of a directory: dir
 9. to display hidden folder: dir /a:h
+10. to rename a folder: rename <old_directory_name> <new_directory_name>
+11. to display contents of a file: type <file_name>
+12. to forward from one file to another: type <old_file_name> > <new_file_name>
+13. to delete all text files: del *.txt
+14. to display all single character named file with extension.txt: dir ?.txt
+15. to display all files with any extension: dir*.*
+16. to merge all file content in one file: type a.txt b.txt ab.txt > c.txt
+17. to retrieve remore repostiry to local pc: git clone <url>
